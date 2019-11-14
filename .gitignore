@@ -1,0 +1,23 @@
+# Created by .ignore support plugin (hsz.mobi)
+# My configurations:
+db.ini
+deploy_key_rsa
+
+.classpath
+.project
+.idea/
+.settings/
+.svn/
+.webapp-conf/
+
+*.iml
+
+*.class
+*.jar
+*.war
+*.lst
+
+target/
+sessionStore
+log/
+.gitignore
