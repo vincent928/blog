@@ -31,7 +31,7 @@
         <freemarker.version>2.3.28</freemarker.version>
         <mysql.version>8.0.16</mysql.version>
         <hutool.version>4.6.8</hutool.version>
-        <com.alibaba.fastjson>1.2.59</com.alibaba.fastjson>
+        <com.alibaba.fastjson>1.2.83</com.alibaba.fastjson>
         <org.apache.commons>3.9</org.apache.commons>
         <springboot.version>2.2.1.RELEASE</springboot.version>
     </properties>
