@@ -29,7 +29,7 @@
         <mybatis-plus.generator>3.2.0</mybatis-plus.generator>
         <lombok.version>1.16.22</lombok.version>
         <freemarker.version>2.3.28</freemarker.version>
-        <mysql.version>8.0.16</mysql.version>
+        <mysql.version>8.0.28</mysql.version>
         <hutool.version>4.6.8</hutool.version>
         <com.alibaba.fastjson>1.2.59</com.alibaba.fastjson>
         <org.apache.commons>3.9</org.apache.commons>
